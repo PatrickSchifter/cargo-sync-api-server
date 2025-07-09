@@ -1,0 +1,16 @@
+/node_modules
+/dist
+/cypress/screenshots
+/cypress/videos
+
+.DS_Store
+.env
+
+*.env
+*.lock
+*.http
+*.log
+.vscode
+*.pem
+
+/generated/prisma
